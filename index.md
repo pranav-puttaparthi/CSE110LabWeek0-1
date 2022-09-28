@@ -4,24 +4,32 @@ That was the first heading.
 That was the second heading.
 
 Styling Text:
+
 <sub>Hehe, I'm in subscript!</sub>
+
 <sup>Mwahaha, I'm in superscript!</sup>
 
 Quoting Text:
+
 > "Any quote is a profound quote if you believe in it hard enough." -- Kofi Makir
 
 Quoting Code:
+
 The way to print out an empty line in Java is this: `System.out.println("");`
 
 External Links:
+
 The amount of content that gets uploaded to [Youtube](https://youtube.com) is astounding, wouldn't you say?
+
 Also, [this site's](https://www.dramabutton.com/) pretty cool too.
 
 # Section Links for the Win!
 # Aren't section links awesome?
 
 Relative Links:
-Can you find [me]?
+
+Can you find [me](notfoundme.md)?
+
 How about [here](foundme.md)?
 
 Here's a list of some of my favorite foods (Unordered List):
@@ -37,6 +45,7 @@ Here's a list of my top five favorite games (Ordered List):
 5. To The Moon
 
 -- Task Lists --
+
 Here's a list of chores to be done this week:
 - [x] Scrub the floors (Eat off the floor to make sure it's done)
 - [x] Wash the dishes
@@ -45,6 +54,6 @@ Here's a list of chores to be done this week:
 - [ ] Trim the plants in the garden
 
 Here's a list of chores to be done next week:
-- [x] Runn around the house for no reason
+- [x] Run around the house for no reason
 - [x] Buy a trampoline
 - [ ] Fill the trampoline with tons of Jell-O
