@@ -25,7 +25,9 @@ Here's an image of my favorite game's title screen:
 
 <img src="omorititlescreen.jpg">
 
-![OMORI Title Screen]{omorititlescreen.jpg}
+And here's a picture of my second favorite game's title screen:
+
+<img src="sonic2titlescreen.jpg">
 
 Games that I need to play:
 - [x] Hades
