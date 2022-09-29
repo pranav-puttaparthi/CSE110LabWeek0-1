@@ -27,7 +27,7 @@ Here's an image of my favorite game's title screen:
 
 And here's a picture of my second favorite game's title screen:
 
-<img src="sonic2titlescreen.jpg" style="width:800px;height:300px;">
+<img src="sonic2titlescreen.jpg" style="width:400px;height:300px;">
 
 Games that I need to play:
 - [x] Hades
