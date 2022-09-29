@@ -23,7 +23,9 @@ Here's a list of my top five favorite games (Ordered List):
 
 Here's an image of my favorite game's title screen:
 
-![OMORI TitleScreen]{omorititlescreen.jpg}
+<img src="omorititlescreen.jpg">
+
+![OMORI Title Screen]{omorititlescreen.jpg}
 
 Games that I need to play:
 - [x] Hades
