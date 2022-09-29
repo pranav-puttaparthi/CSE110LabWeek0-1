@@ -2,7 +2,7 @@
 ### As a programmer:
 My name is Pranav Puttaparthi. I started programming when I was a child, due to a growing interest in helping the world around me through coding. I taught myself a lot of programming languages around that time, from **HTML** and **CSS** to **Java** and **C++**, and pored through sites like [Youtube](https://youtube.com) to help myself learn them all. I remember really being fascinated by printing empty lines in Java (`System.out.println("");`) and I don't even know why.
 
-I've worked (and am currently working) on several software projects of my own. One project I made in high school was a game in Java where a green circle collects yellow circles while avoiding green circles. One project I'm working on is an even bigger game project about a dude who has to try to find a way to escape his crazy ex-girlfriend's house (this one is currently being made using the engine LÖVE 2D).
+I've worked (and am currently working) on several software projects of my own. One project I made in high school was a game in Java where a blue circle collects yellow circles while avoiding green circles. One project I'm working on now is an even bigger game project about a dude who has to try to find a way to escape his crazy ex-girlfriend's house (this one is currently being made using the engine LÖVE 2D).
 
 Languages I should improve on:
 - [x] Python
@@ -50,3 +50,5 @@ One of my favorite quotes from one of my favorite TV shows can be found [here](f
 I also really love [this quote](secondquote.md)!
 
 In my spare time, I love to write novels. I have two novels that are self-published, and I'm in the middle of writing a third novel that I am very proud of.
+
+Aside from that, I'm very much into cooking, baking and traveling. I've been to places ranging from Arizona and New York to countries like India and China.
